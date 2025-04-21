@@ -1,0 +1,21 @@
+email,name,age,status
+john@example.com,John Doe,30,active
+jane@example.com,Jane Smith,25,active
+mike@example.com,Mike Brown,28,active
+sarah@example.com,Sarah Connor,35,inactive
+alex@example.com,Alex White,22,active
+emma@example.com,Emma Green,40,active
+daniel@example.com,Daniel Black,31,active
+lucy@example.com,Lucy Blue,27,active
+jack@example.com,Jack Gray,45,inactive
+rose@example.com,Rose Gold,19,active
+liam@example.com,Liam Silver,29,active
+ava@example.com,Ava Brown,33,inactive
+noah@example.com,Noah White,24,active
+mia@example.com,Mia Black,38,active
+james@example.com,James Blue,30,active
+ella@example.com,Ella Green,21,active
+ethan@example.com,Ethan Gray,36,inactive
+olivia@example.com,Olivia Gold,20,active
+william@example.com,William Silver,32,active
+sophia@example.com,Sophia Brown,26,active
